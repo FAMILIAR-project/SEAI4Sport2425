@@ -6,5 +6,6 @@ Collaborative notes: https://docs.google.com/document/d/1L24OO9eXZwzBO43LxleREvl
 
 Learning the basics of Python, Notebooks, and Git (very practical!)
  - https://colab.research.google.com/drive/1RKEQMvhthVxG0eReGKcxzwyzrVyXQvtg?usp=sharing
+
 A first data analysis on concrete data (with many concrete tasks: data preparation, data exploration, data visualization, data filtering, etc.)
  - https://colab.research.google.com/drive/1Aez4viLElCbnpOJbinS2XXXB8nPZ82V0?usp=sharing
