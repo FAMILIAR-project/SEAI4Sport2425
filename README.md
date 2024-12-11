@@ -9,3 +9,8 @@ Learning the basics of Python, Notebooks, and Git (very practical!)
 
 A first data analysis on concrete data (with many concrete tasks: data preparation, data exploration, data visualization, data filtering, etc.)
  - https://colab.research.google.com/drive/1Aez4viLElCbnpOJbinS2XXXB8nPZ82V0?usp=sharing
+
+Large Language Models explained briefly: 
+https://www.youtube.com/watch?v=LPZh9BOjkQs
+
+https://v0.dev/
